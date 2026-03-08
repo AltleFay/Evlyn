@@ -1,0 +1,17 @@
+# Discord Bot Framework
+discord.py>=2.3.0,<3.0.0
+
+# Google AI / Gemini API
+google-genai>=0.3.0,<1.0.0
+
+# Environment Variable Management
+python-dotenv>=1.0.0,<2.0.0
+
+# Async Support (built-in with Python 3.7+)
+# asyncio is included in Python standard library
+
+# Web Server for Keep-Alive (Render deployment)
+Flask>=2.0.0,<3.0.0
+
+# Additional dependencies for enhanced functionality
+aiohttp>=3.8.0,<4.0.0  # HTTP client for async operations
